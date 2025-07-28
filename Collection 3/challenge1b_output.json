@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-27T21:38:53.427165"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Preheat oven to 400°F (200°C).",
+            "importance_rank": 1,
+            "page_number": 6
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "1/4 cup lemon juice",
+            "importance_rank": 2,
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "1 teaspoon crayfish powder",
+            "importance_rank": 3,
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "1/2 teaspoon pepper",
+            "importance_rank": 4,
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Add spinach and cook until wilted.",
+            "importance_rank": 5,
+            "page_number": 2
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "Ground lamb or beef, diced onion, and minced garlic. Stir in peas and carrots, beef broth, tomato paste, and Worcestershire sauce. Spread mashed potatoes over the top and sprinkle with grated cheddar cheese. Bake for 20-25 minutes until golden and bubbly.",
+            "page_number": 6
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "Grate carrots and mix with raisins and chopped parsley. Whisk lemon juice, olive oil, cumin, and salt, then pour over salad. Toss well and serve chilled.",
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "Sauté diced onion and minced garlic in palm oil until softened. Add diced tomatoes, ground egusi seeds, and crayfish powder, cook for 5 minutes. Add beef, fish, salt, pepper, and water, simmer until meat is tender.",
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "Sauté diced onion and minced garlic in olive oil until softened. Layer vegetables in a baking dish, seasoning with oregano, salt, and pepper. Bake for 45 minutes until vegetables are tender.",
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "Mix noodles with soy sauce, sugar, and sesame seeds. Combine with cooked beef and vegetables. Serve warm. Jerk Vegetables Ingredients: • 1 cup broccoli o 1 cup bell peppers o 1 cups zucchini.",
+            "page_number": 2
+        }
+    ]
+}

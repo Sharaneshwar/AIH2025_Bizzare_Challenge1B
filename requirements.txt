@@ -1,0 +1,9 @@
+pdfplumber
+sentence-transformers
+numpy
+tqdm
+scikit-learn
+transformers
+torch
+joblib
+pandas
