@@ -1,10 +1,4 @@
-# Adobe_India_Hackathon_25
-
-This repo is for the submission of the work done for the Adobe India Hackathon 2025.
-
----
-
-## Challenge 1b: Multi-Collection PDF Analysis
+# Adobe India Hackathon - Team Bizzare - Round 1B
 
 This solution processes multiple PDF collections, extracts and ranks relevant sections based on a persona and job-to-be-done, and outputs structured JSON results. The approach combines machine learning and heuristics for robust section title detection and semantic ranking.
 
